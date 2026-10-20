@@ -1,0 +1,15 @@
+entry/mid-level Data Scientist 1, senior-level Data Scientist
+Skills for Job 1: Required: BS/BA or higher. Preferred: technical skills (Python or R and SQL), understanding of statistical concepts, 
+communication with diverse teams, familiarity with front end frameworks, Matplotlib, Seaborn, Plotly, Tableau, TensorFlow, 
+PyTorch, machine learning, familiarity with AI technologies, coursework in data science and statistics, understanding of key 
+concepts related to nuclear incident preparation and response, curiosity and problem-solving mindset, flexibility, capacity to work 
+independently
+Skills for Job 2: Required: proficiency in Python and SQL, expertise in experimental design, experience working closely with developer-facing 
+products, effective written communication and presentation skills to technical and business audiences. Preferred, 6+ years of experience 
+in data science, experience supporting B2B sales teams with data insights, experience with AI/ML products and large language models, 
+comfort operating in fast-moving environments, an interest in their mission
+Skills from both: proficiency in Python, knowledge of machine learning and statistical analysis, familiarity with AI technologies, 
+communication with diverse audiences, and experimental design
+I was surprised how similar the requirements for these two job postings were when they are very different jobs. One focused more on
+front-end frameworks while the other talked about developer-facing products. One was more about creating a product for consumers and the 
+other was more research-based, but their data visualization requirements were similar.
