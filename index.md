@@ -11,3 +11,10 @@ Hi! My name is Ella Koch, and I am a first-year student at Oregon State Universi
 
 ## Projects
 Projects in progress, check back soon!
+
+## Career Goals
+While I’m in college, I hope to develop the technical skills necessary for a career in data science. After analyzing job postings for data science positions, I realized how important technical skills, particularly programming, statistics, and data analysis, are in this field. Developing these skills is my main priority, as I want to feel confident working with complex datasets and using data to solve problems. Through my Data Science and Mathematics coursework, I hope to strengthen my understanding of these subjects and learn how to apply them in real-world situations. For example, working with R to organize and visualize datasets has given me some initial experience with data analysis, and I want to continue building on that foundation.
+
+In addition to developing my technical abilities, I want to gain professional experience while in college. I am currently working on my URSA application with Lan Xue, which would give me an opportunity to gain research experience and learn how data science is applied outside the classroom. I also hope to secure an internship for the summer of 2028, where I can apply the skills I have learned in a professional environment.
+
+Another goal I have is to explore different industries that use data science. One thing that interests me about this career path is how versatile it is and how data can be used in many different fields. By gaining experience through coursework, research, and internships, I hope to discover which industries best align with my interests. Ultimately, my goal is to graduate with a strong technical foundation and practical experience that will prepare me for a career in data science.
